@@ -60,7 +60,7 @@ Softmax Output Layer
 This architecture helps extract visual features such as texture, color, and surface damage.
 
 📊 Results
-Model Accuracy: 94%
+Model Accuracy: 84%
 Successfully detects spoiled produce from image input.
 Can be extended for real-time detection using a camera.
 
